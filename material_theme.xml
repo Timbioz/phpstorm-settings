@@ -8,12 +8,12 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="highlightThickness" value="5" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="0057e9" />
-    <option name="highlightColor" value="e97200" />
+    <option name="accentColor" value="005ce9" />
+    <option name="highlightColor" value="e9c700" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-62e1140d:16754c53699:-8000" />
-    <option name="version" value="3.0.0-pre4" />
+    <option name="userId" value="-2ddf98bb:16763fa8e2a:-8000" />
+    <option name="version" value="3.0.0-rc3" />
   </component>
 </application>
