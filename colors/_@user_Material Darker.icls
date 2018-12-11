@@ -4,10 +4,10 @@
     <property name="created">2018-11-13T22:10:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-13T23:03:58</property>
+    <property name="modified">2018-12-11T10:35:03</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -24,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -874,10 +875,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="ERL_ATOM" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="ERL_RECORDS" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
