@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\resources\views\layouts\admin.blade.php [laravel-blog]'" />
-    <option name="defaultScopeName" value="File '...\resources\views\layouts\admin.blade.php [laravel-blog]'" />
+    <option name="customScope" value="File '...\database\migrations\2018_11_26_181013_create_posts_table.php [laravel-blog]'" />
+    <option name="defaultScopeName" value="File '...\database\migrations\2018_11_26_181013_create_posts_table.php [laravel-blog]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\resources\views\layouts\admin.blade.php [laravel-blog]'" />
+    <option name="SEARCH_SCOPE" value="File '...\database\migrations\2018_11_26_181013_create_posts_table.php [laravel-blog]'" />
   </component>
 </application>
