@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\Http\Controllers\Admin\CategoriesController.php [laravel-blog]'" />
-    <option name="defaultScopeName" value="File '...\app\Http\Controllers\Admin\CategoriesController.php [laravel-blog]'" />
+    <option name="customScope" value="File '...\routes\web.php [laravel-blog]'" />
+    <option name="defaultScopeName" value="File '...\routes\web.php [laravel-blog]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\Http\Controllers\Admin\CategoriesController.php [laravel-blog]'" />
+    <option name="SEARCH_SCOPE" value="File '...\routes\web.php [laravel-blog]'" />
   </component>
 </application>
