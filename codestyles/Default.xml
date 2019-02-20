@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="200" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
