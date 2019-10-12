@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\index.php [imagemanager]'" />
-    <option name="defaultScopeName" value="File '...\index.php [imagemanager]'" />
+    <option name="customScope" value="File '...\build\css\main.css [easy-audit]'" />
+    <option name="defaultScopeName" value="File '...\build\css\main.css [easy-audit]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\index.php [imagemanager]'" />
+    <option name="SEARCH_SCOPE" value="File '...\build\css\main.css [easy-audit]'" />
   </component>
 </application>
