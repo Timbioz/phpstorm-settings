@@ -1,10 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
-    <MarkdownPreviewSettings>
-      <HtmlPanelProviderInfo>
-        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
-      </HtmlPanelProviderInfo>
-    </MarkdownPreviewSettings>
+    <MarkdownCssSettings UriEnabled="true" StylesheetUri="https://gist.githubusercontent.com/ivalkeen/c093e3401790a02f02e020a2884229e8/raw/2cceaaccfbc3a1b556c2ac06658550b95b8f6aba/intellij-markdown.css" TextEnabled="true" StylesheetText="body {background-color: white;}" />
+    <MarkdownPreviewSettings UseGrayscaleRendering="false" />
   </component>
 </application>
