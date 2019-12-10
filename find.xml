@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\build\css\main.css [easy-audit]'" />
-    <option name="defaultScopeName" value="File '...\build\css\main.css [easy-audit]'" />
+    <option name="customScope" value="File '...\build\index.html'" />
+    <option name="defaultScopeName" value="File '...\build\index.html'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\build\css\main.css [easy-audit]'" />
+    <option name="SEARCH_SCOPE" value="File '...\build\index.html'" />
   </component>
 </application>
