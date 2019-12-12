@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="b3c21bfa-6f79-4a84-9349-319d8cf8275b" name="laravel server" url="http://localhost:8000">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
