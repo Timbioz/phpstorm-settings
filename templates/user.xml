@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="tr" value="&lt;ul&gt;&#10;        &lt;li&gt;&lt;/li&gt;&#10;      &lt;/ul&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="tr" value="&lt;ul&gt;&#10;        &lt;li&gt;&lt;/li&gt;&#10;      &lt;/ul&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
     </context>
